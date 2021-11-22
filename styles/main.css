@@ -1,0 +1,141 @@
+<head>
+<link href="https://fonts.google.com/specimen/Lato" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+<style>
+
+
+
+h1 {
+    font-family: Lato, sans-;
+    color: fuckyou
+}
+
+
+h1 {
+    font-family: "Lato", sans-serif;
+    font-size: 50px;
+    color:cadetblue;
+}
+
+body {
+    font-family: "Josefin-Sans", sans-serif;
+    color: #056020;
+    background:rgb(255, 228, 245);
+    border-style: dashed;
+    border-width: 15px 5px 25px 10px;
+    border-color:rgb(190, 55, 96);
+    padding: 50px;
+}
+
+.btn {
+    display: inline-block;
+    background: rgb(150, 181, 226);
+    border-style: groove;
+    border-width: 8px;
+    border-color: rgb(158, 59, 189);
+    color: black;
+    padding: 25px 65px;
+    text-decoration: none;
+    max-width: 60px;
+    max-height: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.ftr {
+    bottom: 0px;
+    margin-top: 35px;
+    margin-bottom: 0px;
+    text-align: center;
+    dispaly: inline-block;
+}
+
+.circle { 
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin: 0px;
+}
+
+.intro {
+    display: inline-block;
+    margin: 28px 0px 10px 0px;
+    border-bottom: steelblue;
+    border-bottom-width: 8px;
+    border-bottom-style: double;
+    font-size: 30px;
+}
+
+h3 {
+    text-emphasis: none;
+}
+
+.display {
+    height: 45px;
+    width: auto;
+}
+
+.home {
+    size: 25px;
+    top:0px;
+    right: 10px;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* .link { 
+    color:seashell;
+    text-size-adjust: 20px;
+} */
+
+ a:-webkit-any-link { 
+    text-decoration: none;
+    cursor: grab;
+    text-size-adjust: 30px;
+ }  
+
+ .gaiety {
+     height: 300px;
+     width: auto;
+     margin: 20px 0px 20px 0px;
+ }
+
+
+</style>
+
+/* .literally-anything { 
+    color: blue;
+}
+
+.grid-container-1 {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 150px 150px;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+}
+
+.grid-container-2 {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 150px 150px;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+}
+
+.grid-container-3 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 150px 150px;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+}
+*/
+
+</head>
